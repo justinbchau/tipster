@@ -23,7 +23,7 @@ An AI-powered chat application that provides intelligent insights and analysis a
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/stock_news_chat.git
+git clone https://github.com/justinbchau/tipster
 ```
 
 2. Install dependencies:
